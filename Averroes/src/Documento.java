@@ -10,3 +10,5 @@ public class Documento {
     }
 }
 //Autor: Alberto Gandoy Florido.
+
+//Descripción: descipción de documento.
