@@ -9,3 +9,4 @@ public class Documento {
         return nombreDocumento;
     }
 }
+//Autor: Alberto Gandoy Florido.
